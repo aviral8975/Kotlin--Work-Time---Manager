@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GrindSpace</string>
+    <array name="work_time">
+        <item>Select Time</item>
+        <item>45 mins</item>
+        <item>35 mins</item>
+        <item>25 mins</item>
+    </array>
+    <array name="break_time">
+        <item>Select Time</item>
+        <item>5 mins</item>
+        <item>10 mins</item>
+        <item>15 mins</item>
+    </array>
+</resources>
